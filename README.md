@@ -39,7 +39,7 @@ const houssam = {
 
 ---
 
-##🌍 Let's Connect
+## 🌍 Let's Connect
 
 <p align="left"> <a href="mailto:vortixdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/houssam-elddine-benbehaz-430a25343/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://instagram.com/vortixdev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>  </p>
 
@@ -51,18 +51,21 @@ const houssam = {
 
 ---
 
+<h3 align="left">📊 Github Statistics 🏆 :</h3>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vortix-dev" alt="yazid120" />
+  </a>
+</p>
+
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center"> <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" /> </p>
 
 ---
 
-<h3 align="left">📊 Github Statistics 🏆 :</h3>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yazid120" alt="yazid120" />
-  </a>
-</p>
 
 **"Code is like humor. When you have to explain it, it’s bad." – Cory House**
 
