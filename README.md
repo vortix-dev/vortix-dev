@@ -37,24 +37,25 @@ const houssam = {
 
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/> </p>
 
-🌍 Let's Connect
+---
+
+##🌍 Let's Connect
 
 <p align="left"> <a href="mailto:vortixdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/houssam-elddine-benbehaz-430a25343/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://instagram.com/vortixdev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>  </p>
 
-📊 GitHub Activity
+---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide=stars"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark"/> </p>
+##📊 GitHub Activity
 
-🏆 GitHub Achievements
+<p align="center"> <img align="left" width="480" src="https://github-readme-stats.zohan.tech/api?username=vortix-dev&theme=monokai" show_icons=true count_private=true /></p>
 
-<p align="center"> <img align="left" width="480" src="https://github-readme-stats.zohan.tech/api?username=vortix-dev&theme=monokai" show_icons=true count_private=true />
- </p>
+---
 
-🐍 Contribution Snake
+##🐍 Contribution Snake
 
 <p align="center"> <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" /> </p>
 
-"Code is like humor. When you have to explain it, it’s bad." – Cory House
+**"Code is like humor. When you have to explain it, it’s bad." – Cory House**
 
 ---
 
