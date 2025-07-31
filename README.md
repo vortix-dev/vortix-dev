@@ -19,11 +19,11 @@ const houssam = {
 
 ---
 
-🔥 My Arsenal
+##🔥 My Arsenal
 
 🚀 Frameworks & Libraries
 
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40"/> </p>
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40"/> </p>
 
 🧠 Languages
 
@@ -47,7 +47,8 @@ const houssam = {
 
 🏆 GitHub Achievements
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=vortix-dev&theme=algolia&no-frame=true&column=7" /> </p>
+<p align="center"> <img align="left" width="480" src="https://github-readme-stats.zohan.tech/api?username=vortix-dev&theme=monokai" show_icons=true count_private=true />
+ </p>
 
 🐍 Contribution Snake
 
