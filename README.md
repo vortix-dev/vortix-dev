@@ -47,14 +47,15 @@ const houssam = {
 
 ## 📊 GitHub Activity
 
-<p align="center"> <img align="left" width="480" src="https://github-readme-stats.zohan.tech/api?username=vortix-dev&theme=monokai" show_icons=true count_private=true /></p><br>
+<p align="center"> <img align="left" width="480" src="https://github-readme-stats.zohan.tech/api?username=vortix-dev&theme=monokai" show_icons=true count_private=true /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vortix-dev&layout=compact&theme=github_dark"/></p>
 
 ---
 
-<h3 align="left">📊 Github Statistics 🏆 :</h3>
+## 🏆 GitHub Achievements
+
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vortix-dev" alt="yazid120" />
+    <img src="https://github-profile-trophy.vercel.app/?username=vortix-dev" alt="vortix-dev" />
   </a>
 </p>
 
