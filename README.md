@@ -2,11 +2,11 @@
 <h3 align="center">🚀 A Passionate Full-Stack Developer & Creative Problem Solver</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+  <img src="https://komarev.com/ghpvc/?username=vortix-dev&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true" alt="yourusername stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vortix-dev&show_icons=true&theme=radical&count_private=true" alt="yourusername stats"/>
 </p>
 
 ---
@@ -73,11 +73,11 @@
 ### 📈 GitHub Stats & Trophies
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vortix-dev&layout=compact&theme=tokyonight" alt="langs" />
 </p>
 
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=vortix-dev&theme=onedark" alt="trophies"/>
 </p>
 
 ---
