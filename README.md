@@ -8,9 +8,8 @@
 ## 🧠 About Me
 
 const houssam = {
-  code: ["JavaScript", "TypeScript", "PHP", "Dart"],
+  code: ["JavaScript", "PHP", "Dart"],
   frameworks: ["React.js", "Laravel", "Flutter"],
-  backend: ["Node.js", "Laravel", "Express.js"],
   databases: ["MySQL", "PostgreSQL", "MongoDB"],
   tools: ["Git", "Figma", "Docker", "Postman"],
   currentlyLearning: ["AI 🤖", "Blockchain ⛓️", "DevOps ☁️"],
