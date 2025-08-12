@@ -7,44 +7,44 @@
 
 ## 🧠 About Me
 
-const houssam = {
-  code: ["JavaScript", "PHP", "Dart"],
-  frameworks: ["React.js", "Laravel", "Flutter"],
-  databases: ["MySQL", "PostgreSQL", "MongoDB"],
-  tools: ["Git", "Figma", "Docker", "Postman"],
-  currentlyLearning: ["AI 🤖", "Blockchain ⛓️", "DevOps ☁️"],
-  funFact: "I code like I breathe — naturally and non-stop 😄",
+const houssam = {<br/>
+  code: ["JavaScript", "PHP", "Dart"],<br/>
+  frameworks: ["React.js", "Laravel", "Flutter"],<br/>
+  databases: ["MySQL", "PostgreSQL", "MongoDB"],<br/>
+  tools: ["Git", "Figma", "Docker", "Postman"],<br/>
+  currentlyLearning: ["AI 🤖", "Blockchain ⛓️", "DevOps ☁️"],<br/>
+  funFact: "I code like I breathe — naturally and non-stop 😄",<br/>
 };
 
 ---
 
-## 🔥 My Arsenal
+## Skills
 
-**🚀 Frameworks & Libraries**
+**Frameworks & Libraries**
 
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>  </p>
 
-**🧠 Languages**
+**Languages**
 
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/> </p>
 
-**💾 Databases**
+**Databases**
 
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/> </p>
 
-**🛠️ Tools**
+**Tools**
 
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/> </p>
 
 ---
 
-## 🌍 Let's Connect
+## Let's Connect
 
 <p align="left"> <a href="mailto:vortixdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/houssam-elddine-benbehaz-430a25343/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://instagram.com/vortixdev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>  </p>
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <p align="center"> 
   <img align="left" width="480" src="https://github-readme-stats.zohan.tech/api?username=vortix-dev&theme=monokai" show_icons=true count_private=true />
@@ -56,7 +56,7 @@ const houssam = {
 
 ---
 
-## 🏆 GitHub Achievements
+## GitHub Achievements
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -65,13 +65,6 @@ const houssam = {
 </p>
 
 ---
-
-## 🐍 Contribution 
-
-<p align="center"> <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" /> </p>
-
----
-
 
 **"Code is like humor. When you have to explain it, it’s bad." – Cory House**
 
