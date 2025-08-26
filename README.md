@@ -8,13 +8,13 @@
 ## 🧠 About Me
 
 const houssam = {<br/>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;code: ["JavaScript", "PHP", "Dart"],<br/>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;frameworks: ["React.js", "Laravel", "Flutter"],<br/>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;databases: ["MySQL", "PostgreSQL", "MongoDB"],<br/>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;tools: ["Git", "Figma", "Docker", "Postman"],<br/>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;currentlyLearning: ["AI 🤖", "Blockchain ⛓️", "DevOps ☁️"],<br/>
-  **funFact: "I code like I breathe — naturally and non-stop 😄",<br/>**
-};
+&nbsp; &nbsp; &nbsp; &nbsp; code: ["JavaScript", "PHP", "Dart"],<br/>
+&nbsp; &nbsp; &nbsp; &nbsp; frameworks: ["React.js", "Laravel", "Flutter"],<br/>
+&nbsp; &nbsp; &nbsp; &nbsp; databases: ["MySQL", "PostgreSQL", "MongoDB"],<br/>
+&nbsp; &nbsp; &nbsp; &nbsp; tools: ["Git", "Figma", "Docker", "Postman"],<br/>
+&nbsp; &nbsp; &nbsp; &nbsp; currentlyLearning: ["AI 🤖", "Blockchain ⛓️", "DevOps ☁️"],<br/>
+};<br/>
+**funFact: "I code like I breathe — naturally and non-stop 😄",**
 
 ---
 
