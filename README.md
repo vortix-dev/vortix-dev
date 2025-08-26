@@ -14,7 +14,7 @@ const houssam = {<br/>
 &nbsp; &nbsp; &nbsp; &nbsp; tools: ["Git", "Figma", "Docker", "Postman"],<br/>
 &nbsp; &nbsp; &nbsp; &nbsp; currentlyLearning: ["AI 🤖", "Blockchain ⛓️", "DevOps ☁️"],<br/>
 };<br/>
-**funFact: "I code like I breathe — naturally and non-stop 😄",**
+***funFact: "I code like I breathe — naturally and non-stop 😄",***
 
 ---
 
