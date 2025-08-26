@@ -56,16 +56,6 @@ const houssam = {<br/>
 
 ---
 
-## GitHub Achievements
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vortix-dev" alt="vortix-dev" />
-  </a>
-</p>
-
----
-
 **"Code is like humor. When you have to explain it, it’s bad." – Cory House**
 
 
