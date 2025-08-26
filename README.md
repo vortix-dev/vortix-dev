@@ -8,12 +8,12 @@
 ## 🧠 About Me
 
 const houssam = {<br/>
-  code: ["JavaScript", "PHP", "Dart"],<br/>
-  frameworks: ["React.js", "Laravel", "Flutter"],<br/>
-  databases: ["MySQL", "PostgreSQL", "MongoDB"],<br/>
-  tools: ["Git", "Figma", "Docker", "Postman"],<br/>
-  currentlyLearning: ["AI 🤖", "Blockchain ⛓️", "DevOps ☁️"],<br/>
-  funFact: "I code like I breathe — naturally and non-stop 😄",<br/>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;code: ["JavaScript", "PHP", "Dart"],<br/>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;frameworks: ["React.js", "Laravel", "Flutter"],<br/>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;databases: ["MySQL", "PostgreSQL", "MongoDB"],<br/>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;tools: ["Git", "Figma", "Docker", "Postman"],<br/>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;currentlyLearning: ["AI 🤖", "Blockchain ⛓️", "DevOps ☁️"],<br/>
+  **funFact: "I code like I breathe — naturally and non-stop 😄",<br/>**
 };
 
 ---
